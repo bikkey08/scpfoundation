@@ -1,2 +1,3 @@
 # scpfoundation
-a simple for scp foundation
+This repository contains a simple website dedicated to the SCP Foundation, a fictional organization that secures, contains, and protects anomalous entities, objects, and phenomena. The website, built with HTML, CSS, and Bootstrap, provides an introduction to the SCP Foundation and detailed information about several SCPs, including SCP-002 (a fleshy growth that "furnishes" itself with organic matter), SCP-003 (a sentient motherboard-like structure), SCP-004 (a door with keys to different dimensions), SCP-005 (a key that unlocks any lock), and SCP-006 (a spring with regenerative water). Each SCP entry includes containment procedures, descriptions, and additional notes. Clone the repository and open `index.html` to explore the site.
+
